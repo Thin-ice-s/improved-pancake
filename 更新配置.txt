@@ -1,6 +1,8 @@
 版本:1.45
-更新日期:2025-07-23
-更新说明:修复了材质贴图路径问题，优化了渲染性能
+https://raw.githubusercontent.com/Thin-ice-s/improved-pancake/refs/heads/main/%E6%9B%B4%E6%96%B0%E5%8C%85.zip
+更新日期: 2025-07-23
+
+修复了材质贴图路径问题，优化了渲染性能
 
 新功能:
 - 添加了批量材质替换工具
@@ -16,12 +18,9 @@
 - 支持3ds Max 2020及以上版本
 - 需要.NET Framework 4.7.2或更高版本
 
-下载链接:
-https://raw.githubusercontent.com/Thin-ice-s/improved-pancake/refs/heads/main/%E6%9B%B4%E6%96%B0%E5%8C%85.zip
-
 安装说明:
-1. 下载配置文件后解压到3ds Max scripts目录
-2. 重启3ds Max
+1. 脚本会自动下载并解压到3ds Max scripts目录
+2. 重启3ds Max生效
 3. 在脚本菜单中找到新工具
 
 技术支持:
