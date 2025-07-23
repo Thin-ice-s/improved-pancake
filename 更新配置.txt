@@ -17,7 +17,7 @@
 - 需要.NET Framework 4.7.2或更高版本
 
 下载链接:
-https://github.com/your-repo/releases/download/v1.45/script-v1.45.zip
+https://raw.githubusercontent.com/Thin-ice-s/improved-pancake/refs/heads/main/%E6%9B%B4%E6%96%B0%E5%8C%85.7z
 
 安装说明:
 1. 下载配置文件后解压到3ds Max scripts目录
